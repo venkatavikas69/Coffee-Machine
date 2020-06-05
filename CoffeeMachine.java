@@ -41,7 +41,7 @@ public class CoffeeMachine{
         milk /= 50;
         beans /= 15;
         
-        int min = Math.min(water, milk);
+        int min = Math.min(water, milk);		//gets minimum value
         min = Math.min(beans, min);
         
         if (cups==min) {
