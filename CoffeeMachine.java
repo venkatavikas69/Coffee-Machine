@@ -1,7 +1,7 @@
 package jetbrains;
 import java.util.*;
 
-public class CoffeeMachineTest{
+public class CoffeeMachine{
 	static Scanner in = new Scanner(System.in);
 	
 	static int money = 550;
